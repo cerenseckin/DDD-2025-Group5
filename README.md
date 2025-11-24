@@ -6,7 +6,6 @@ Alessandra Maria Luz Vanella; Nerea Asensio; Ayse Ceren Seckin
 ### Visualization
 
 ![final visualization](/docs/images/final_visualization.png)
-
 ## Abstract (300 charachters)
 
 This project explores how enigmatic archaeological sites intersect with narratives of extraterrestrial intervention. Combining archaeological data, cultural myths, and speculative categories, we create a circular timeline mapping perceived alien influences across ancient history.
@@ -93,4 +92,3 @@ We also thought about the legends of mythological creatures (that may have been 
 
 ![final topics chosen](/docs/images/process_final%20topics.png)
 ![research path hypotesis](/docs/images/research%20path.png)
-![visualization first ideas](/docs/images/visualization%20first%20ideas.png)
