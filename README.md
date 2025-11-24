@@ -1,90 +1,49 @@
 # DDD-2025-Group5
 Alessandra Maria Luz Vanella; Nerea Asensio; Ayse Ceren Seckin
 
-## [Project title]
+## Sites of Contact: A Data-Imaginary of Alien Presence in Human Antiquity
 
-### Data Collection
-## - Where did you get your data from? [sources/s link]
- 
- We used a combination of: 
-    - Academic archaeological sources 
-    - Public encyclopedic databases
-    - Ancient astronaut /paleocontact literature 
-    - Open web sources (YouTube documentaries, forums and blogs, UFO archives) 
+### Visualization
 
-The initial dataset of achaelogical sites eas compiled manually based on publicly accessible resurces including; 
+![final visualization](/docs/images/final_visualization.png)
 
-    - Wikipedia 
-    - UNESCO World Heritage listings
-    - Archaeology magazines 
-    - Cultural heritage dtabases
-    - Popular ancient-astronaut media
-    - Public UFO reporting archives
+## Abstract (300 charachters)
 
-We also created a structured spreadsheet that contains all final variables derived from these sources. 
+This project explores how enigmatic archaeological sites intersect with narratives of extraterrestrial intervention. Combining archaeological data, cultural myths, and speculative categories, we create a circular timeline mapping perceived alien influences across ancient history.
 
-https://www.livescience.com/
-https://www.mysteriousbritain.co.uk/
-https://open.library.ubc.ca/
-https://www.smithsonianmag.com/
-https://curiosmos.com/
-https://es.wikipedia.org/wiki/Wikipedia:Portada
-https://www.sealevels.org/
+## Protocol diagram
 
-For sea level: Lambeck et al. 2014; Rohling et al. 2017; Spratt & Lisiecki 2016
-For paleocontact and ancient astronaut theory: Sommer, M. (2012). Pseudoarchaeology and the ancient astronaut theory: An analysis of a modern belief system (Capstone project). California State University, Monterey Bay.
+![final topics chosen](/docs/images/alien_protocol_rev2.png)
 
-## - What's your data about? [describe]
+Our protocol begins with collecting heterogeneous data on archaeologically ambiguous sites: creation dates, cultural context, alien-related narratives, and environmental indicators. We clean and categorize this data into intervention types, sighting status, and temporal markers. Finally, we transform these variables into a circular visual system that integrates chronology, environmental context, and speculative alien activity.
 
+## What topic does the project address?
 
-We used a combination of:
+The project investigates how human cultures interpret unexplained ancient sites through the lens of extraterrestrial narratives. It explores the intersection of archaeology, cultural memory, and paleocontact speculation, asking how data, myth, and imagination co-produce meaning around these “enigmatic” locations.
+By situating each site within its historical moment and corresponding Holocene sea-level conditions, the project examines how archaeological ambiguity, planetary context, and cultural imagination intersect to shape beliefs about paleocontact.
 
-- Academic archaeological sources
-- Public encyclopedic databases
-- Ancient astronaut / paleocontact literature
-- Open web sources (documentaries, forums, UFO archives)
+## What data have you considered?
 
-The initial dataset of archaeological sites was compiled manually based on publicly accessible sources, including:
+We collected data on a curated selection of archaeologically significant sites that frequently appear in ancient-astronaut theories or extraterrestrial folklore. For each site, we gathered: creation period, type of alleged alien intervention (concept, knowledge, construction), alien activity mode (passive, earth alignment, active field), presence or absence of sightings, and a contextual sea-level estimate.
 
-- Wikipedia
-- UNESCO World Heritage listings
-- Archaeology magazines
-- Cultural heritage databases
-- Popular ancient-astronaut media
-- Public UFO reporting archives
+This dataset combines archaeological information, fringe narratives, and environmental data to explore how diverse forms of evidence are woven together in popular speculation.
 
-We  also created a structured spreadsheet that contains all final variables derived from these sources. 
+### Link to the dataset
 
-## - What's your data about?
+## What does the visualisation show?
+
+The visualization is structured as a circular diagram in which archaeological sites are arranged in chronological order along a clockwise path. Each site is represented by a segmented “bubble” that encodes the type of extraterrestrial intervention associated with it—such as conceptual influence, knowledge transmission, or construction support. A blue wave running through the center visualizes the environmental context by showing relative sea-level conditions at the time each site was created.
+
+Radiating outward, each site bubble includes a central symbol indicating whether alien sightings have been reported in connection with the site. The lines connecting sites to the central timeline distinguish between normal states (straight lines) and locations where abnormal or speculative “energy fields” are referenced in paleocontact narratives (wavy lines).
+
+Temporal direction is indicated by a circular band whose line weight gradually increases: the thinnest point marks the oldest period, while the thickest point corresponds to the most recent.
 
 
-Our data describes a curated selection of archaeologically significant sites that:
-- have unexplained or debated construction features,
-- frequently appear in ancient-astronaut and paleocontact narratives,
-- or are associated with myths of extraterrestrial presence.
+## Conclusion 
 
-For each site, our dataset captures:
-
-- approximate creation date,
-- type of intervention attributed to extraterrestrials in popular narratives (construction, knowledge, concept),
-- presence or absence of alien sightings,
-- estimated global sea level at the time of creation (to contextualize the site environmentally),
-- and the category of “energy” or alien activity (passive, active field, earth alignment).
-
-The dataset is not about proving alien contact; it’s about understanding how cultural imagination, archaeological ambiguity, and speculative narratives intersect.
-
- ## - Who is/are the sources/creators of your data?
-
-Because this dataset mixes academic information and cultural narratives, the “sources” are diverse:
-- Archaeologists and researchers who publish on these sites
-- Scientific papers providing dating, stratigraphy, and environmental context
-- Cultural historians and mythologists
-- Popular writers within ancient astronaut theory (e.g., fringe media, documentaries, UFO forums)
-- Global sea-level reconstructions by paleoclimate scientists
-- Popular media creators on social platforms (videos by YouTube)
-
-Ultimately, we created the compiled dataset: we selected, cleaned, reinterpreted, and structured the information for this project.
-
+While our visualization does not provide evidence of extraterrestrial intervention, it reveals how easily archaeological ambiguity, environmental context, and cultural myth-making intertwine. By placing each mysterious site along a shared timeline and sea-level wave, we highlight the coincidences, gaps, and resonances that fuel paleocontact narratives.
+The result is not a proof of alien impact, but a map of how humans construct meaning: connecting distant sites across vast eras, projecting intelligence onto stone, and imagining contact where scientific certainty fades.
+Ultimately, our project shows that extraterrestrial narratives tell us less about aliens and far more about ourselves—our need for explanation, our fascination with the unknown, and our tendency to search for patterns across the deep history of our planet.
 
 ### Data Organisation
 
@@ -108,27 +67,9 @@ To merge them we:
 
 This produced a single coherent dataset where every row corresponds to one archaeological site.
 
-## - What columns are more relevant for your project?</li>
-
-The most relevant columns are:
-    1- Creation Date: to situate each site in time
-    2- Sea Level: to contextualize the environmental moment
-    3- Help Type (construction / knowledge / concept): core narrative layer
-    4- Alien Seen? (yes/no): sociocultural layer
-    5- Energy Type (passive / active field)
-
-These are the variables visualised in the final circular diagram.
-
 ## - Have you used any AI-based tool to understand and manipulate your data? if yes, what and how?
  
- Yes. We used AI (ChatGPT) in the following ways:
-
-    - To isolate the sites that were interesting enough to add on our database based on the ancien astronaut theories
-    - To confirm archaeological dates, synthesizing information from multiple reliable sources
-    - To derive sea-level values for each date, using known paleoclimate curves, and to find some specific sites where to find this data
-    - To organize the conceptual categories, such as types of alien help or types of “energy”
-    - To help clean and standardize information, ensuring consistency across the dataset
-
+Yes. We used AI (ChatGPT) to isolate the sites that were interesting, to confirm archaeological dates, to derive sea-level values for each date, to organize the conceptual categories and to help clean and standardize information, ensuring consistency across the dataset
 However, the core dataset was curated manually and all values were checked or adjusted for coherence. AI was used as a support tool to research and organize, not a data generator
 
  </li>
@@ -144,10 +85,9 @@ We started thinking about the overall alien traces in human history and evolutio
 We also thought about the legends of mythological creatures (that may have been aliens) but left that path to finally chose the archeological sites, which we found more interesting and representative of human evolution and alien intervention. 
 
 #### Can we assume that mythological creatures are aliens?
-#### What does "alien" mean?
 #### Are mythological creatures inspired by an alien presence in human evolution history?
 #### Did aliens have anything to do with human evolution?
-### Where does the missing chromosome come from?
+#### Where does the missing chromosome come from?
 
 ### Previeous boards, research thoughts and process 
 
