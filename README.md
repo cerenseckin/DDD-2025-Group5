@@ -34,6 +34,9 @@ This dataset combines archaeological information, fringe narratives, and environ
 
 ### Link to the dataset
 
+https://docs.google.com/spreadsheets/d/18DHF_hsuJIT-A3KqUwp2g1UnsjZWsKYVnv-_WJHfhsA/edit?usp=sharing
+
+
 ## What does the visualisation show?
 
 The visualization is structured as a circular diagram in which archaeological sites are arranged in chronological order along a clockwise path. Each site is represented by a segmented “bubble” that encodes the type of extraterrestrial intervention associated with it—such as conceptual influence, knowledge transmission, or construction support. A blue wave running through the center visualizes the environmental context by showing relative sea-level conditions at the time each site was created.
