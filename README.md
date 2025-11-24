@@ -53,7 +53,7 @@ The initial dataset of archaeological sites was compiled manually based on publi
 - Popular ancient-astronaut media
 - Public UFO reporting archives
 
-We  also created a structured spreadsheet that contains all final variables derived from these sources. (File used: “UNEXPLAINED ARCHEOLOGICAL SITES – DATASET_3.pdf” .)
+We  also created a structured spreadsheet that contains all final variables derived from these sources. 
 
 ## - What's your data about?
 
