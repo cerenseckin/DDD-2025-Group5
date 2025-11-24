@@ -15,7 +15,9 @@ This project explores how enigmatic archaeological sites intersect with narrativ
 
 ## Protocol diagram
 
-<svg id="export-svg" width="100%" xmlns="http://www.w3.org/2000/svg" class="flowchart" style="max-width: 1684.08px; background: rgb(255, 255, 255);" viewBox="0 0 1684.078125 2662.3642578125" role="graphics-document document" aria-roledescription="flowchart-v2"><style xmlns="http://www.w3.org/1999/xhtml">/* Copyright 2019 The Recursive Project Authors (github.com/arrowtype/recursive)
+<img width="3368" height="5324" alt="Alien protocol-2025-11-24-153620" src="https://github.com/user-attachments/assets/a96101ba-8643-4c54-a4d2-bda4186d603e" />
+
+
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
