@@ -15,7 +15,8 @@ This project explores how enigmatic archaeological sites intersect with narrativ
 
 ## Protocol diagram
 
-![final topics chosen](/docs/images/alien_protocol_rev2.png)
+<img width="3320" height="5127" alt="alien_protocol_rev2" src="https://github.com/user-attachments/assets/db8ccb8d-b31b-4dff-b893-e50fd5ed6ecf" />
+
 
 Our protocol begins with collecting heterogeneous data on archaeologically ambiguous sites: creation dates, cultural context, alien-related narratives, and environmental indicators. We clean and categorize this data into intervention types, sighting status, and temporal markers. Finally, we transform these variables into a circular visual system that integrates chronology, environmental context, and speculative alien activity.
 
